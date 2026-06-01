@@ -8,12 +8,13 @@ And naturally, I open up linkedin so I can doomscroll ***productively***. Which,
 I posted about my previous half finished project on linkedin. It got good reach. <sub>8 likes(5 of them my homies)</sub>
 
 And then I find this post. seems to be popping off yeah, I look into it
-> Impressive integrated forward thinking Solution 
-> Solving real world problems
-> Computer Vision
+> Impressive integrated forward thinking Solution<br>
+> Solving real world problems<br>
+> Computer Vision<br>
 > em dashes. emojis.
+
 Naturally, I go to the github repo. No jelousy up to this point.
-> 60 lines of python 
+> 60 lines of python<br>
 > Vibe coded
 
 So I go "is it cuz its a vision thing? should I make a vision thing myself. yeah open cv ig. lets get some linkedin validation points"
@@ -24,16 +25,20 @@ And then I go "lets detect plants, plants are cute. I like plants. my parents bo
 So, where do I get the data from? Plant Net gemini suggests
 
 I decide
+
 > Quick project, 20 minutes in and out. no over engineering. Linkedin post and out
+
 And then I go
+
 > I will fine tune a model with this data! how hard could it be?
+
 I discovered you need a lotta GPUs, and I am broke. So apparently planet net has an api (bring your own api I aint paying for it)
 but apparently it only returns the plant name form the image yeah. So my idea was we send that to Trefle api
 Trefle returns raw data, we cant use that I want plant care info like "water it 3 times a day"
 
-What do you do in the big 2026 when theres a small problem?
-THATS RIGHT. Artificial 👏. Intelligence 👏.
-Right so now I need artificial intelligence. I dont wanna call an api(takes money)
+What do you do in the big 2026 when theres a small problem?<br>
+THATS RIGHT. Artificial 👏. Intelligence 👏.<br>
+Right so now I need artificial intelligence. I dont wanna call an api(takes money).
 So I go locally hosted. locally hosted cant be on web no
 
 So now it needs to be an app. An android app I decide (I really dont want to learn react)
